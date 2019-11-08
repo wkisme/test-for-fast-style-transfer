@@ -1,0 +1,1 @@
+pip install -r dep.txt -i https://pypi.doubanio.com/simple/
